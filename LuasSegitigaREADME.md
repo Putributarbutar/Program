@@ -1,7 +1,10 @@
 import java.util.Scanner;
+
 public class LuasSegitiga
+
 {
 	public static void main(String args[])
+	
 	{
 		Scanner masuk = new Scanner(System.in);
 		int alas;
